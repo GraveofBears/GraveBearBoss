@@ -70,7 +70,7 @@
       <HintPath>E:\Steam\steamapps\common\ValheimLATEST\BepInEx\core\BepInEx.dll</HintPath>
     </Reference>
     <Reference Include="CreatureManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>CreatureManager.dll</HintPath>
+      <HintPath>.\CreatureManager.dll</HintPath>
     </Reference>
     <Reference Include="ItemManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -92,10 +92,10 @@
       <HintPath>E:\Steam\steamapps\common\ValheimLATEST\unstripped_corlib\UnityEngine.AccessibilityModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>$(GamePath)\unstripped_corlib\UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>E:\Steam\steamapps\common\ValheimLATEST\unstripped_corlib\UnityEngine.AssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>$(GamePath)\unstripped_corlib\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>E:\Steam\steamapps\common\ValheimLATEST\unstripped_corlib\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
